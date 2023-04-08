@@ -39,6 +39,14 @@ A passionate self-taught full stack web developer.
 | ----------------- | ------------------------------------------------------------------------ |
 | [Samurai Logistics](https://github.com/salvadorgascon/samurai-logistics-webapp) | Web application for warehouse (WMS) and transportation (TMS) management. |
 
+## Where to find me
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+
 <!--
 **salvadorgascon/salvadorgascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
