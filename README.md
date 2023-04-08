@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Salvador!
+
+Welcome to my page!
+I'm Salvador, Senior Software Engineer from Spain. 
+A passionate self-taught full stack web developer.
+
+![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
 
 <!--
 **salvadorgascon/salvadorgascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
