@@ -46,6 +46,8 @@ A passionate self-taught full stack web developer.
 | ---- | ----------- |
 | [PostgreSQL ](https://gist.github.com/salvadorgascon/6ff16320552ab1326f1fc739c3d7fd08) | PostgreSQL database configuration for Ruby on Rails|
 | [PostgreSQL + PostGIS](https://gist.github.com/salvadorgascon/9d47351b275a465b4fe1971d2e1859be) | PostgreSQL database configuration with PostGIS support for Ruby on Rails|
+| [Load locales](https://gist.github.com/salvadorgascon/8f9e70a6e397b58f696fe63d7afac393) | Load locales and setup available locales in Ruby on Rails |
+| [No asset no helper generation](https://gist.github.com/salvadorgascon/29d1fb38b40c42040a70050ffc5774a4) | Disable asset and helper generation in Ruby on Rails |
 
 ## Latest Blog posts  📰 
 
