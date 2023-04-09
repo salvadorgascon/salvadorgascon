@@ -8,9 +8,7 @@ A passionate self-taught full stack web developer.
 
 ![Good](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
  
- ## Things I code with
- 
- 
+ ## Things I code with 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
