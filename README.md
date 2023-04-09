@@ -8,7 +8,7 @@ A passionate self-taught full stack web developer.
 
 ![Good](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
  
- ## Things I code with ⌨️
+ ## 🚀 Things I code with
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -34,13 +34,13 @@ A passionate self-taught full stack web developer.
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## Projects 🗂 
+## 🗂 Projects
 
 | Project           | Description                                                              |
 | ----------------- | ------------------------------------------------------------------------ |
 | [Samurai Logistics](https://github.com/salvadorgascon/samurai-logistics-webapp) | Web application for warehouse (WMS) and transportation (TMS) management. |
 
-## Gists 📋 
+## 📋 Gists
 
 | Gist | Description |
 | ---- | ----------- |
@@ -51,13 +51,13 @@ A passionate self-taught full stack web developer.
 | [Ignoring accents SQL Server ](https://gist.github.com/salvadorgascon/5b64326db44fa5438dfce3aaf205aaed) | Query ignoring accents and ignore case on Microsoft SQL Server |
 | [Ignoring accents PostgreSQL](https://gist.github.com/salvadorgascon/770bfef5e39c935478c38cec7b706d9b) | Query ignoring accents and ignore case on PostgreSQL |
 
-## Latest Blog posts  📰 
+## 📰 Latest Blog posts
 
-## Cheatsheets 🔔 
+## 🔔 Cheatsheets
 
-## My development environment setup 💻 
+## 💻 My development environment setup
 
-## Where to find me 📢 
+## 📢 Where to find me  
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
@@ -66,7 +66,7 @@ A passionate self-taught full stack web developer.
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
 
-## Credits 🙏 
+## 🙏 Credits
 
 Thanks for visiting.
 
