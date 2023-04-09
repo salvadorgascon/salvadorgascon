@@ -42,6 +42,12 @@ A passionate self-taught full stack web developer.
 
 ## Gists
 
+| Gist | Description |
+| ---- | ----------- |
+| [PostgreSQL ](https://gist.github.com/salvadorgascon/6ff16320552ab1326f1fc739c3d7fd08) | PostgreSQL database configuration for Ruby on Rails|
+| [PostgreSQL + PostGIS](https://gist.github.com/salvadorgascon/9d47351b275a465b4fe1971d2e1859be) | PostgreSQL database configuration with PostGIS support for Ruby on Rails|
+
+
 ## Latest Blog posts
 
 ## Cheatsheets
