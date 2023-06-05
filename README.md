@@ -38,7 +38,7 @@ A passionate self-taught full stack web developer.
 
 | Project           | Description                                                              |
 | ----------------- | ------------------------------------------------------------------------ |
-| [Samurai Logistics](https://github.com/salvadorgascon/samurai-logistics-webapp) | Web application for warehouse (WMS) and transportation (TMS) management. |
+| [CivitasData ETL](https://github.com/salvadorgascon/civitasdata-etl) | ETL scripts para fuentes de datos públicas. |
 
 ## 📋 Gists
 
