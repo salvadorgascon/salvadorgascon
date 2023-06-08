@@ -4,8 +4,6 @@ Welcome to my page!
 
 I'm Salvador, Senior Software Engineer from Spain.
 
-A passionate self-taught full stack web developer.
-
 ![Good](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
  
  ## 🚀 Things I code with
