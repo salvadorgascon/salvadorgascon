@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi página!
 
-Soy Salvador, programador.
+Soy Salvador, ingeniero de software.
 
 ![Good](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
 
