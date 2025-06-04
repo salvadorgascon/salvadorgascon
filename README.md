@@ -3,8 +3,11 @@
 ¡Bienvenido a mi página!
 
 Soy Salvador.
+
 🚀 SEO E-commerce, dashboards y automatización para negocios digitales. 
+
 💪 Aumenta tráfico, ahorra tiempo y toma decisiones con datos. 
+
 Sin complicaciones, solo resultados. 
 
 📬[Apúntate](https://salvadorgascon.me/) a mi newsletter. 
