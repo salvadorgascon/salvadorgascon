@@ -2,7 +2,12 @@
 
 ¡Bienvenido a mi página!
 
-Soy Salvador, ingeniero de software.
+Soy Salvador.
+🚀 SEO E-commerce, dashboards y automatización para negocios digitales. 
+💪 Aumenta tráfico, ahorra tiempo y toma decisiones con datos. 
+Sin complicaciones, solo resultados. 
+
+📬[Apúntate](https://salvadorgascon.me/) a mi newsletter. 
 
 ![Good](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
 
