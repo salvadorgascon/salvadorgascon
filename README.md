@@ -2,15 +2,15 @@
 
 ¡Bienvenido a mi página!
 
-Soy Salvador.
+👋 Soy Salvador, desarrollo webs corporativas y cuadros de mando para PYMEs B2B.
 
-🚀 SEO E-commerce, dashboards y automatización para negocios digitales. 
+🖥️ Sitios web corporativos para PYMEs B2B.
 
-💪 Aumenta tráfico, ahorra tiempo y toma decisiones con datos. 
+📊 Cuadros de mando para asesorías con Google Looker Studio y Google BigQuery.
 
 Sin complicaciones, solo resultados. 
 
-📬[Apúntate](https://salvadorgascon.me/) a mi newsletter. 
+📬[Visita mi web](https://salvadorgascon.me/) 
 
 ![Good](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
 
