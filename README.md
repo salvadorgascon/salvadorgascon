@@ -2,9 +2,7 @@
 
 ¡Bienvenido a mi página!
 
-👋 Soy Salvador, desarrollo webs corporativas y cuadros de mando para PYMEs B2B.
-
-🖥️ Sitios web corporativos para PYMEs B2B con Wordpress.
+👋 Soy Salvador, desarrollo cuadros de mando para PYMEs B2B.
 
 📊 Cuadros de mando para asesorías con Google Looker Studio y con Google BigQuery.
 
