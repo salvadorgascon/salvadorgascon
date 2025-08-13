@@ -2,9 +2,9 @@
 
 ¡Bienvenido a mi página!
 
-👋 Soy Salvador, desarrollo cuadros de mando para negocios B2B.
+👋 Soy Salvador,
 
-📊 Cuadros de mando para negocios B2B con Google Looker Studio y con Google BigQuery.
+📊 Desarrollo cuadros de mando para compañías B2B con Google Looker Studio y con Google BigQuery.
 
 Sin complicaciones, solo resultados. 
 
