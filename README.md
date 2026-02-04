@@ -4,10 +4,6 @@
 
 👋 Soy Salvador,
 
-📊 Desarrollo cuadros de mando para compañías B2B con Google Looker Studio y con Google BigQuery.
-
-Sin complicaciones, solo resultados. 
-
 🌐[Visita mi web](https://salvadorgascon.me/) 
 
 ![Good](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
