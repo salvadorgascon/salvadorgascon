@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 🗂 Proyectos
+## 🗂 Projects
 
 | Project           | Description                                                              |
 | ----------------- | ------------------------------------------------------------------------ |
