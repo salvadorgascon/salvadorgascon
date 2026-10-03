@@ -1,4 +1,4 @@
-### Hola 👋, soy Salvador!
+### Hi 👋, I'm Salvador!
 
 Welcome to my GitHub profile!
 
