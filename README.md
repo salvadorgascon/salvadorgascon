@@ -1,18 +1,16 @@
 ### Hola 👋, soy Salvador!
 
-¡Bienvenido a mi página!
+Welcome to my GitHub profile!
 
-👋 Soy Salvador,
-
-🌐[Visita mi web](https://salvadorgascon.me/) 
+🌐[Check out my website](https://salvadorgascon.me/) 
 
 ![Good](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
 
-## ❤️ Me encanta ...
+## ❤️ I love ...
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
- ## 🚀 Herramientas que utilizo
+ ## 🚀 Tech stack
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -39,27 +37,27 @@
 
 ## 🗂 Proyectos
 
-| Proyecto          | Descripción                                                              |
+| Project           | Description                                                              |
 | ----------------- | ------------------------------------------------------------------------ |
 
 ## 📋 Gists
 
-| Gist | Descripción |
+| Gist | Description |
 | ---- | ----------- |
 
-## 📰 Últimas entradas de mi blog
+## 📰 My latest blog posts
 
-## 🔔 Hojas de trucos
+## 🔔 My Cheat Sheets
 
-## 💻 Mi configuración
+## 💻 My Setup
 
-## 📢 Dónde encontrarme
+## 📢 Find me online
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvadorgascon/)
 
-## 🙏 Creditos
+## 🙏 Credits
 
-Gracias por tu visita.
+Thanks for visiting.
 
 <!--
 **salvadorgascon/salvadorgascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
