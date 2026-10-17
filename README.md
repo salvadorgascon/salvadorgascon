@@ -31,6 +31,7 @@ Welcome to my GitHub profile!
 
 | Project           | Description                                                              |
 | ----------------- | ------------------------------------------------------------------------ |
+| [Polaris](https://github.com/salvadorgascon/astro-polaris)            | Astro 7 template  |
 
 ## 📋 Gists
 
