@@ -1,19 +1,19 @@
 
-### ¡Hola 👋, soy Salvador!
+# Hi 👋, I'm Salvador!
 
-¡Bienvenido a mi perfil de GitHub!
+Welcome to my GitHub profile!
 
-🌐 [Visita mi sitio web](https://salvadorgascon.me/)
+🌐 [Visit my website](https://salvadorgascon.me/)
 
-![Bien](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
+![Welcome](https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif)
 
-## ❤️ Me encanta...
+## ❤️ I love...
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
 
-## 🚀 Stack tecnológico
+## 🚀 Tech Stack
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -28,42 +28,41 @@
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-## 🗂 Proyectos
+## 🗂 Projects
 
-| Proyecto | Descripción |
+| Project | Description |
 | -------- | ----------- |
-| [Polaris](https://github.com/salvadorgascon/astro-polaris) | Plantilla para Astro 7 |
+| [Polaris](https://github.com/salvadorgascon/astro-polaris) | Astro 7 template |
 
 ## 📋 Gists
 
-| Gist | Descripción |
+| Gist | Description |
 | ---- | ----------- |
 
-## 📰 Mis últimas publicaciones del blog
+## 📰 My Latest Blog Posts
 
-## 🔔 Mis guías rápidas
+## 🔔 My Quick Guides
 
-## 💻 Mi setup
+## 💻 My Setup
 
-## 📢 Encuéntrame en Internet
+## 📢 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvadorgascon/)
 
-## 🙏 Agradecimientos
+## 🙏 Acknowledgements
 
-Gracias por visitar mi perfil.
+Thanks for visiting my profile!
 
 <!--
-**salvadorgascon/salvadorgascon** es un repositorio ✨ especial ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
+**salvadorgascon/salvadorgascon** is a ✨ special ✨ repository because its `README.md` file (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-Aquí tienes algunas ideas para empezar:
-
-- 🔭 Actualmente estoy trabajando en...
-- 🌱 Actualmente estoy aprendiendo...
-- 👯 Estoy buscando colaborar en...
-- 🤔 Necesito ayuda con...
-- 💬 Pregúntame sobre...
-- 📫 Cómo contactar conmigo:...
-- 😄 Pronombres:...
-- ⚡ Dato curioso:...
+- 🔭 I'm currently working on...
+- 🌱 I'm currently learning...
+- 👯 I'm looking to collaborate on...
+- 🤔 I'm looking for help with...
+- 💬 Ask me about...
+- 📫 How to reach me:...
+- 😄 Pronouns:...
+- ⚡ Fun fact:...
 -->
